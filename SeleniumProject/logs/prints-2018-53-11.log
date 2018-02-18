@@ -1,0 +1,7 @@
+14:52:54.633 [main] INFO  Framework.HomePage - Password is entered
+14:52:57.606 [main] DEBUG Framework.HomePage - User clicks on Login button
+14:52:57.607 [main] INFO  Framework.HomePage - Restricted
+14:53:00.751 [main] INFO  Framework.HomePage - Close Browser
+14:53:08.175 [main] INFO  Framework.ValidateTitle - Driver initialization in progress.
+14:53:13.885 [main] INFO  Framework.ValidateTitle - URL entered in the URL bar
+14:53:13.979 [main] DEBUG Framework.ValidateTitle - Text validation in progress

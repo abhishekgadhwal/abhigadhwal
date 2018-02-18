@@ -1,0 +1,6 @@
+14:53:13.980 [main] INFO  Framework.ValidateTitle - Validation successfully completed.
+14:53:14.832 [main] INFO  Framework.ValidateTitle - Close Browser
+14:53:18.197 [main] INFO  Framework.ValidateNavBar - Driver initialization in progress.
+14:53:24.563 [main] INFO  Framework.ValidateNavBar - URL entered in the URL bar
+14:53:24.643 [main] INFO  Framework.ValidateNavBar - Navigation Bar is displayed.
+14:53:27.286 [main] INFO  Framework.ValidateNavBar - Close Browser

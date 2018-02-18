@@ -1,0 +1,7 @@
+14:39:03.291 [main] INFO  Framework.HomePage - Password is entered
+14:39:06.468 [main] DEBUG Framework.HomePage - User clicks on Login button
+14:39:06.468 [main] INFO  Framework.HomePage - Restricted
+14:39:06.680 [main] DEBUG Framework.ValidateTitle - Text validation in progress
+14:39:06.680 [main] INFO  Framework.ValidateTitle - Validation successfully completed.
+14:39:06.748 [main] INFO  Framework.ValidateNavBar - Navigation Bar is displayed.
+14:39:09.538 [main] INFO  Framework.HomePage - Close Browser

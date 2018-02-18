@@ -1,0 +1,7 @@
+14:38:00.114 [main] INFO  Framework.ValidateNavBar - Driver initialization in progress.
+14:38:03.806 [main] INFO  Framework.ValidateNavBar - URL entered in the URL bar
+14:38:06.524 [main] INFO  Framework.ValidateTitle - Driver initialization in progress.
+14:38:12.227 [main] INFO  Framework.ValidateTitle - URL entered in the URL bar
+14:38:15.587 [main] INFO  Framework.HomePage - Driver initialization in progress.
+14:38:26.201 [main] INFO  Framework.HomePage - URL entered in the URL bar
+14:38:37.091 [main] DEBUG Framework.HomePage - login page is opened

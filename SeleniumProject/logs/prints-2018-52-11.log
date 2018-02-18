@@ -1,0 +1,8 @@
+14:52:21.154 [main] INFO  Framework.HomePage - Username is entered.
+14:52:21.452 [main] INFO  Framework.HomePage - Password is entered
+14:52:23.630 [main] DEBUG Framework.HomePage - User clicks on Login button
+14:52:23.630 [main] INFO  Framework.HomePage - Full-Access
+14:52:31.277 [main] INFO  Framework.HomePage - Driver initialization in progress.
+14:52:47.135 [main] INFO  Framework.HomePage - URL entered in the URL bar
+14:52:54.323 [main] DEBUG Framework.HomePage - login page is opened
+14:52:54.501 [main] INFO  Framework.HomePage - Username is entered.
